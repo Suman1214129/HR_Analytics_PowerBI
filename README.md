@@ -115,10 +115,11 @@ This data enables exploration of how **salary, age, experience, and job satisfac
 
 ---
 
-## 📧 Contact 
+## 🧠 Author
 
-👤 **Harsh Belekar**  
-🔗 [LinkedIn – Harsh Belekar](https://www.linkedin.com/in/harshbelekar)
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | [GitHub](https://github.com/Harsh-Belekar)
 
-📧 harshbelekar74@gmail.com
+📧 **harshbelekar74@gmail.com**
 
